@@ -13,7 +13,7 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 2fr);
   grid-template-areas:
-    " daniel daniel jonathan kirb"
+    " daniel daniel jonathan kira"
     "jeanette patrick patrick kira";
   column-gap: 3%;
   justify-content: space-evenly;
